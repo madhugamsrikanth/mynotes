@@ -36,4 +36,25 @@ public class HelloWorld {
         }
     }
 }
+System.out.println("The value of numberA is: " + numberA);
+        System.out.println("The value of numberB is: " + numberB);
 
+        // Print the result of the addition
+        System.out.println("The sum of A and B is: " + sum);
+
+        // Example of a conditional statement
+        if (sum > 10) {
+            System.out.println("The sum is greater than 10.");
+        } else {
+            System.out.println("The sum is 10 or less.");
+        }
+    }
+}
+new linw added develop by devloper1 without pull code
+
+~                                                                                                                                                 
+~                                                                                                                                                 
+~                                                                                                                                                 
+~                                                                                                                                                 
+~                                                                                                                                                 
+E35: No previous regular expression                                                                                            n 
